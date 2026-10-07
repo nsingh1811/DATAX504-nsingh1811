@@ -1,0 +1,7 @@
+Model,Validation Accuracy
+Majority Class Baseline,0.19387755102040816
+Logistic Regression,0.9561224489795919
+Keras Linear Softmax,0.9479591846466064
+Small MLP (64 ReLU),0.9459183812141418
+Deep MLP (256-128-64),0.9372448921203613
+Regularised Deep MLP,0.9423469305038452
